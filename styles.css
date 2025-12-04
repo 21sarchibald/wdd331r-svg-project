@@ -1,0 +1,35 @@
+.green-flowers path {
+    fill: green;
+  }
+
+.green-flowers {
+  width: 200px;
+  position: sticky;
+  left: 165px;
+  top: 10px;
+}
+
+.daisy {
+  position: sticky;
+  left: 200px;
+  top: 20px;
+  transform: rotate(-25deg);
+}
+
+.light-pink {
+  position: sticky;
+  left: 250px;
+  top: 30px;
+  transform: rotate(30deg);
+}
+
+.blue {
+  position: sticky;
+  transform: rotate(-40deg);
+  left: 190px;
+  top: 100px;
+}
+
+#attributions {
+  margin: 1000px 0px 0px 0px;
+}
