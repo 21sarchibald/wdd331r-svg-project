@@ -16,20 +16,33 @@
   transform: rotate(-25deg);
 }
 
-.light-pink {
+.light-blue {
   position: sticky;
   left: 250px;
-  top: 30px;
-  transform: rotate(30deg);
+  top: 25px;
+  transform: rotate(20deg);
 }
 
 .blue {
   position: sticky;
   transform: rotate(-40deg);
-  left: 190px;
+  left: 195px;
   top: 100px;
 }
 
+.yellow  {
+  position: sticky;
+  transform: rotate(-5deg);
+  left: 210px;
+  top: 70px;
+}
+
+.light-pink {
+  position: sticky;
+  left: 260px;
+  top: 100px;
+  transform: rotate(30deg);
+}
 #attributions {
   margin: 1000px 0px 0px 0px;
 }
