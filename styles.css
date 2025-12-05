@@ -1,3 +1,7 @@
+body {
+  background-color: white;
+}
+
 .green-flowers path {
     fill: green;
   }
@@ -43,6 +47,13 @@
   top: 100px;
   transform: rotate(30deg);
 }
+
+.bow {
+  position: sticky;
+  left: 245px;
+  top: 152px;
+}
+
 #attributions {
   margin: 1000px 0px 0px 0px;
 }
