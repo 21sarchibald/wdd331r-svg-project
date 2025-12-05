@@ -1,6 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Rouge+Script&display=swap');
+
 body {
   background-color: white;
   height: 1700px;
+}
+
+h1 {
+  position: absolute;
+  top: 40px;
+  left: 800px;
+  font-size: 100px;
+  font-family: "Rouge Script", cursive;
 }
 
 .green-flowers path {
@@ -56,12 +66,21 @@ body {
 }
 
 h3 {
-  position: sticky;
+  position: absolute;
   top: 400px;
-  margin: 20px;
+  left: 800px;
+  margin: 10px;
+}
+
+h4 {
+  position: absolute;
+  top: 475px;
+  left: 800px;
+  margin: 10px;
 }
 
 #attributions {
-  position: sticky;
+  position: absolute;
+  left: 800px;
   top: 500px;
 }
