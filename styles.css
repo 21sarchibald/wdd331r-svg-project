@@ -1,5 +1,6 @@
 body {
   background-color: white;
+  height: 1700px;
 }
 
 .green-flowers path {
@@ -54,6 +55,13 @@ body {
   top: 152px;
 }
 
+h3 {
+  position: sticky;
+  top: 400px;
+  margin: 20px;
+}
+
 #attributions {
-  margin: 1000px 0px 0px 0px;
+  position: sticky;
+  top: 500px;
 }
